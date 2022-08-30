@@ -4,7 +4,7 @@
 <a href = "mailto:muriraubach@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 - <p>💙 I'm passionate about web development.</p>
 - <p>👨🏻‍💻 My favorite technologies are ReactJs and NodeJs.</p>
-- <p>📚 Student at IFSul. </p>
+- <p>👨‍🎓 Software engineering student at PUCRS. </p>
 - <p>🔥 "Learning is the only thing the mind never exhausts, never fears, and never regrets."</p>
 <br><br>
 	
